@@ -1,4 +1,4 @@
-# Hi, I'm OJO 👋
+# Hi, I'm Jesse Ochoi 👋
 
 ### Mathematics & Computer Science Student | Aspiring Software Engineer
 
