@@ -17,6 +17,16 @@ I'm a third-year BSc Mathematics & Computer Science student at Kenyatta Universi
 - **Tools:** Git, GitHub, VS Code, XAMPP
 - **Data Analysis:** SPSS
 
+## ☁️ Certifications & Professional Development
+
+**Intro to Cloud Engineering (AWS)** — CodeWrkX  
+Completed: October 2026
+
+- Introduction to cloud engineering concepts and AWS services.
+- Foundational exposure to Amazon EC2, Amazon S3, and AWS IAM.
+
+*Currently developing my cloud computing knowledge alongside my full-stack web development skills.*
+
 ## 🚀 Featured Projects
 
 ### 1. Invoice App
